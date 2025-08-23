@@ -41,7 +41,7 @@ The app will be available at http://localhost:5173/.
 
 ## **Live Demo**
 
-The project is hosted on Firebase. You can access it here:
+The project is hosted on Netlify. You can access it here:
 
 **https://insydnotify.netlify.app/**
 
